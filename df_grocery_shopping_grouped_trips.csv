@@ -1,0 +1,201 @@
+mode,level_urbanization,periods,total_number_of_trips,urbanization_level_code,travel_method_code
+Bike,Extremely urbanised,2018,141.0,1,5
+Bike,Extremely urbanised,2019,127.0,1,5
+Bike,Extremely urbanised,2020,123.0,1,5
+Bike,Extremely urbanised,2021,123.0,1,5
+Bike,Extremely urbanised,2022,130.0,1,5
+Bike,Hardly urbanised,2018,487.0,4,5
+Bike,Hardly urbanised,2019,481.0,4,5
+Bike,Hardly urbanised,2020,494.0,4,5
+Bike,Hardly urbanised,2021,438.0,4,5
+Bike,Hardly urbanised,2022,505.0,4,5
+Bike,Moderately urbanised,2018,499.0,3,5
+Bike,Moderately urbanised,2019,439.0,3,5
+Bike,Moderately urbanised,2020,416.0,3,5
+Bike,Moderately urbanised,2021,406.0,3,5
+Bike,Moderately urbanised,2022,499.0,3,5
+Bike,Strongly urbanised,2018,272.0,2,5
+Bike,Strongly urbanised,2019,328.0,2,5
+Bike,Strongly urbanised,2020,253.0,2,5
+Bike,Strongly urbanised,2021,242.0,2,5
+Bike,Strongly urbanised,2022,269.0,2,5
+Bike,Unknown,2018,106.0,5,5
+Bike,Unknown,2019,106.0,5,5
+Bike,Unknown,2020,105.0,5,5
+Bike,Unknown,2021,97.0,5,5
+Bike,Unknown,2022,116.0,5,5
+Bus/tram/metro,Extremely urbanised,2018,17.0,1,4
+Bus/tram/metro,Extremely urbanised,2019,14.0,1,4
+Bus/tram/metro,Extremely urbanised,2020,8.0,1,4
+Bus/tram/metro,Extremely urbanised,2021,8.0,1,4
+Bus/tram/metro,Extremely urbanised,2022,10.0,1,4
+Bus/tram/metro,Hardly urbanised,2018,0.0,4,4
+Bus/tram/metro,Hardly urbanised,2019,0.0,4,4
+Bus/tram/metro,Hardly urbanised,2020,0.0,4,4
+Bus/tram/metro,Hardly urbanised,2021,0.0,4,4
+Bus/tram/metro,Hardly urbanised,2022,0.0,4,4
+Bus/tram/metro,Moderately urbanised,2018,0.0,3,4
+Bus/tram/metro,Moderately urbanised,2019,0.0,3,4
+Bus/tram/metro,Moderately urbanised,2020,0.0,3,4
+Bus/tram/metro,Moderately urbanised,2021,0.0,3,4
+Bus/tram/metro,Moderately urbanised,2022,0.0,3,4
+Bus/tram/metro,Strongly urbanised,2018,0.0,2,4
+Bus/tram/metro,Strongly urbanised,2019,0.0,2,4
+Bus/tram/metro,Strongly urbanised,2020,0.0,2,4
+Bus/tram/metro,Strongly urbanised,2021,0.0,2,4
+Bus/tram/metro,Strongly urbanised,2022,0.0,2,4
+Bus/tram/metro,Unknown,2018,18.0,5,4
+Bus/tram/metro,Unknown,2019,27.0,5,4
+Bus/tram/metro,Unknown,2020,10.0,5,4
+Bus/tram/metro,Unknown,2021,9.0,5,4
+Bus/tram/metro,Unknown,2022,15.0,5,4
+Passenger car (driver),Extremely urbanised,2018,122.0,1,1
+Passenger car (driver),Extremely urbanised,2019,118.0,1,1
+Passenger car (driver),Extremely urbanised,2020,126.0,1,1
+Passenger car (driver),Extremely urbanised,2021,118.0,1,1
+Passenger car (driver),Extremely urbanised,2022,116.0,1,1
+Passenger car (driver),Hardly urbanised,2018,681.0,4,1
+Passenger car (driver),Hardly urbanised,2019,686.0,4,1
+Passenger car (driver),Hardly urbanised,2020,690.0,4,1
+Passenger car (driver),Hardly urbanised,2021,732.0,4,1
+Passenger car (driver),Hardly urbanised,2022,663.0,4,1
+Passenger car (driver),Moderately urbanised,2018,769.0,3,1
+Passenger car (driver),Moderately urbanised,2019,662.0,3,1
+Passenger car (driver),Moderately urbanised,2020,714.0,3,1
+Passenger car (driver),Moderately urbanised,2021,647.0,3,1
+Passenger car (driver),Moderately urbanised,2022,661.0,3,1
+Passenger car (driver),Strongly urbanised,2018,272.0,2,1
+Passenger car (driver),Strongly urbanised,2019,295.0,2,1
+Passenger car (driver),Strongly urbanised,2020,403.0,2,1
+Passenger car (driver),Strongly urbanised,2021,316.0,2,1
+Passenger car (driver),Strongly urbanised,2022,307.0,2,1
+Passenger car (driver),Unknown,2018,135.0,5,1
+Passenger car (driver),Unknown,2019,131.0,5,1
+Passenger car (driver),Unknown,2020,125.0,5,1
+Passenger car (driver),Unknown,2021,124.0,5,1
+Passenger car (driver),Unknown,2022,128.0,5,1
+Passenger car (passenger),Extremely urbanised,2018,41.0,1,2
+Passenger car (passenger),Extremely urbanised,2019,39.0,1,2
+Passenger car (passenger),Extremely urbanised,2020,29.0,1,2
+Passenger car (passenger),Extremely urbanised,2021,32.0,1,2
+Passenger car (passenger),Extremely urbanised,2022,36.0,1,2
+Passenger car (passenger),Hardly urbanised,2018,198.0,4,2
+Passenger car (passenger),Hardly urbanised,2019,54.0,4,2
+Passenger car (passenger),Hardly urbanised,2020,45.0,4,2
+Passenger car (passenger),Hardly urbanised,2021,25.0,4,2
+Passenger car (passenger),Hardly urbanised,2022,47.0,4,2
+Passenger car (passenger),Moderately urbanised,2018,214.0,3,2
+Passenger car (passenger),Moderately urbanised,2019,189.0,3,2
+Passenger car (passenger),Moderately urbanised,2020,184.0,3,2
+Passenger car (passenger),Moderately urbanised,2021,176.0,3,2
+Passenger car (passenger),Moderately urbanised,2022,198.0,3,2
+Passenger car (passenger),Strongly urbanised,2018,79.0,2,2
+Passenger car (passenger),Strongly urbanised,2019,89.0,2,2
+Passenger car (passenger),Strongly urbanised,2020,81.0,2,2
+Passenger car (passenger),Strongly urbanised,2021,70.0,2,2
+Passenger car (passenger),Strongly urbanised,2022,82.0,2,2
+Passenger car (passenger),Unknown,2018,40.0,5,2
+Passenger car (passenger),Unknown,2019,42.0,5,2
+Passenger car (passenger),Unknown,2020,36.0,5,2
+Passenger car (passenger),Unknown,2021,41.0,5,2
+Passenger car (passenger),Unknown,2022,36.0,5,2
+Train,Extremely urbanised,2018,0.0,1,3
+Train,Extremely urbanised,2019,0.0,1,3
+Train,Extremely urbanised,2020,0.0,1,3
+Train,Extremely urbanised,2021,0.0,1,3
+Train,Extremely urbanised,2022,0.0,1,3
+Train,Hardly urbanised,2018,0.0,4,3
+Train,Hardly urbanised,2019,0.0,4,3
+Train,Hardly urbanised,2020,0.0,4,3
+Train,Hardly urbanised,2021,0.0,4,3
+Train,Hardly urbanised,2022,0.0,4,3
+Train,Moderately urbanised,2018,0.0,3,3
+Train,Moderately urbanised,2019,0.0,3,3
+Train,Moderately urbanised,2020,0.0,3,3
+Train,Moderately urbanised,2021,0.0,3,3
+Train,Moderately urbanised,2022,0.0,3,3
+Train,Strongly urbanised,2018,0.0,2,3
+Train,Strongly urbanised,2019,0.0,2,3
+Train,Strongly urbanised,2020,0.0,2,3
+Train,Strongly urbanised,2021,0.0,2,3
+Train,Strongly urbanised,2022,0.0,2,3
+Train,Unknown,2018,0.0,5,3
+Train,Unknown,2019,0.0,5,3
+Train,Unknown,2020,0.0,5,3
+Train,Unknown,2021,0.0,5,3
+Train,Unknown,2022,0.0,5,3
+Walking,Extremely urbanised,2018,97.0,1,6
+Walking,Extremely urbanised,2019,102.0,1,6
+Walking,Extremely urbanised,2020,110.0,1,6
+Walking,Extremely urbanised,2021,138.0,1,6
+Walking,Extremely urbanised,2022,129.0,1,6
+Walking,Hardly urbanised,2018,239.0,4,6
+Walking,Hardly urbanised,2019,140.0,4,6
+Walking,Hardly urbanised,2020,150.0,4,6
+Walking,Hardly urbanised,2021,168.0,4,6
+Walking,Hardly urbanised,2022,287.0,4,6
+Walking,Moderately urbanised,2018,237.0,3,6
+Walking,Moderately urbanised,2019,223.0,3,6
+Walking,Moderately urbanised,2020,278.0,3,6
+Walking,Moderately urbanised,2021,349.0,3,6
+Walking,Moderately urbanised,2022,314.0,3,6
+Walking,Strongly urbanised,2018,163.0,2,6
+Walking,Strongly urbanised,2019,154.0,2,6
+Walking,Strongly urbanised,2020,192.0,2,6
+Walking,Strongly urbanised,2021,214.0,2,6
+Walking,Strongly urbanised,2022,193.0,2,6
+Walking,Unknown,2018,134.0,5,6
+Walking,Unknown,2019,90.0,5,6
+Walking,Unknown,2020,119.0,5,6
+Walking,Unknown,2021,131.0,5,6
+Walking,Unknown,2022,119.0,5,6
+Other,Extremely urbanised,2018,12.0,1,7
+Other,Extremely urbanised,2019,0.0,1,7
+Other,Extremely urbanised,2020,0.0,1,7
+Other,Extremely urbanised,2021,12.0,1,7
+Other,Extremely urbanised,2022,10.0,1,7
+Other,Hardly urbanised,2018,0.0,4,7
+Other,Hardly urbanised,2019,0.0,4,7
+Other,Hardly urbanised,2020,0.0,4,7
+Other,Hardly urbanised,2021,0.0,4,7
+Other,Hardly urbanised,2022,0.0,4,7
+Other,Moderately urbanised,2018,0.0,3,7
+Other,Moderately urbanised,2019,0.0,3,7
+Other,Moderately urbanised,2020,0.0,3,7
+Other,Moderately urbanised,2021,0.0,3,7
+Other,Moderately urbanised,2022,0.0,3,7
+Other,Strongly urbanised,2018,5.0,2,7
+Other,Strongly urbanised,2019,0.0,2,7
+Other,Strongly urbanised,2020,0.0,2,7
+Other,Strongly urbanised,2021,0.0,2,7
+Other,Strongly urbanised,2022,0.0,2,7
+Other,Unknown,2018,10.0,5,7
+Other,Unknown,2019,8.0,5,7
+Other,Unknown,2020,10.0,5,7
+Other,Unknown,2021,12.0,5,7
+Other,Unknown,2022,10.0,5,7
+Unknown,Extremely urbanised,2018,434.0,1,8
+Unknown,Extremely urbanised,2019,412.0,1,8
+Unknown,Extremely urbanised,2020,405.0,1,8
+Unknown,Extremely urbanised,2021,432.0,1,8
+Unknown,Extremely urbanised,2022,221.0,1,8
+Unknown,Hardly urbanised,2018,1700.0,4,8
+Unknown,Hardly urbanised,2019,1667.0,4,8
+Unknown,Hardly urbanised,2020,1627.0,4,8
+Unknown,Hardly urbanised,2021,1627.0,4,8
+Unknown,Hardly urbanised,2022,1682.0,4,8
+Unknown,Moderately urbanised,2018,1701.0,3,8
+Unknown,Moderately urbanised,2019,1579.0,3,8
+Unknown,Moderately urbanised,2020,1644.0,3,8
+Unknown,Moderately urbanised,2021,1635.0,3,8
+Unknown,Moderately urbanised,2022,1716.0,3,8
+Unknown,Strongly urbanised,2018,823.0,2,8
+Unknown,Strongly urbanised,2019,820.0,2,8
+Unknown,Strongly urbanised,2020,868.0,2,8
+Unknown,Strongly urbanised,2021,867.0,2,8
+Unknown,Strongly urbanised,2022,879.0,2,8
+Unknown,Unknown,2018,413.0,5,8
+Unknown,Unknown,2019,398.0,5,8
+Unknown,Unknown,2020,406.0,5,8
+Unknown,Unknown,2021,417.0,5,8
+Unknown,Unknown,2022,638.0,5,8
