@@ -29,3 +29,8 @@ class TestDataFrameTransformer(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# To run the tests, you would use the command line to execute the test module.
+# Navigate to the directory containing your test_dataframe_transformer.py file and run:
+    
+# python -m unittest test_dataframe_transformer

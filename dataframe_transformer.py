@@ -1,5 +1,50 @@
 import pandas as pd
 
+import pandas as pd
+
+class DataFrameTransformer:
+    """
+    A class used to transform a pandas DataFrame with specific operations such as filtering, merging, 
+    and grouping of data.
+
+    Attributes
+    ----------
+    df : DataFrame
+        A pandas DataFrame instance that will undergo various transformations.
+
+    Methods
+    -------
+    filter_by_column_value(column, value):
+        Filters the DataFrame based on the value in the specified column.
+
+    merge_multiple_dataframes(merge_operations):
+        Merges multiple dataframes with the current dataframe based on the specified operations.
+
+    fill_missing_categorical_values(columns):
+        Fills missing values, caused after merging dataframes, in categorical columns with 'Unknown'.
+
+    group_and_sum(group_by_columns, sum_column, sum_column_name):
+        Groups the DataFrame by the specified columns and sums up the specified column.
+
+    sort(sort_by, ascending=False):
+        Sorts the DataFrame based on the given column(s) in ascending or descending order.
+
+    filter_by_values_in_list(column, values_list):
+        Filters the DataFrame to include rows where column values are in the given list.
+
+    count_values(column, count_column_name):
+        Counts unique values in a column and creates a new DataFrame with the count.
+
+    reorder_categories(column, categories_to_move):
+        Reorders categories in a column, moving specified categories to the end.
+
+    apply_mappings():
+        Applies predefined mappings to the 'level_urbanization' and 'mode' columns.
+
+    get_dataframe():
+        Returns the transformed DataFrame.
+    """
+
 class DataFrameTransformer:
     def __init__(self, df):
         self.df = df
