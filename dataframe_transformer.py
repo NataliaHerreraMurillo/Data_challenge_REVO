@@ -1,7 +1,5 @@
 import pandas as pd
 
-import pandas as pd
-
 class DataFrameTransformer:
     """
     A class used to transform a pandas DataFrame with specific operations such as filtering, merging, 
